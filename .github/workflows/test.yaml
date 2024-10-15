@@ -23,5 +23,5 @@ jobs:
     runs-on: ubuntu-latest
     needs: [uno]
     steps:
-    - name: Directorio
-      run: ls -al
+      - name: Directorio
+      run: ls -al
